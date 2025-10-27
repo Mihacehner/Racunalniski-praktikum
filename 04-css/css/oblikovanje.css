@@ -18,6 +18,35 @@ body {
     /*  Obojestranska poravnava besedila    */
     text-align: justify;
 }
+h1 {color:#330066}
+h2 {
+    margin-top: 2em;
+    border-top: 1px;
+    border-color: #AAAAAA;
+    border-style: solid;
+    padding-top: 0.5em;
+}
+section {
+    margin-bottom: 2em;
+    background-color: rgb(40, 34, 80, 0.1);}
+ #uvod {
+    padding: 2em;
+    background-color: rgb(51, 0, 102, 0.1);
+}
+.slika {
+    font-size: 0.9em;
+    width: 40%;
+    text-align: left;
+    margin-left: 2em;
+}
+
+.slika img {
+    width: 100%;
+    height: auto;
+    border-radius: 50%;
+    padding-top: 0.5em;
+     float: right;
+}
 
 /*  Odstranimo podčrtovanje povezav in outline (ta se včasih pokaže kot kvadratek okrog povezave)  */
 a { text-decoration: none; outline:none; }
