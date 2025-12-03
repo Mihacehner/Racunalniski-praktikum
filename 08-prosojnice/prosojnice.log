@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.11.8)  23 NOV 2025 13:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.11.8)  3 DEC 2025 18:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/Uporabnik/Documents/RP/08-prosojnice/prosojnice.tex
-(c:/Users/Uporabnik/Documents/RP/08-prosojnice/prosojnice.tex
+**c:/Users/Uporabnik/Desktop/Racunalniski-praktikum/Racunalniski-praktikum/08-prosojnice/prosojnice.tex
+(c:/Users/Uporabnik/Desktop/Racunalniski-praktikum/Racunalniski-praktikum/08-prosojnice/prosojnice.tex
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-10-09>
 (C:\Users\Uporabnik\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer.cls
@@ -827,33 +827,79 @@ Package: dsfont 1995/08/01 v0.1 Double stroke roman fonts
 \tikz@math@for@depth=\count379
 \tikz@math@dimen=\dimen334
 \tikz@math@toks=\toks55
+) (C:\Users\Uporabnik\AppData\Local\Programs\MiKTeX\tex/latex/pgfplots\pgfplots.sty (C:\Users\Uporabnik\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.revision.tex)
+Package: pgfplots 2021/05/15 v1.18.1 Data Visualization (1.18.1)
+ (C:\Users\Uporabnik\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.code.tex (C:\Users\Uporabnik\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotscore.code.tex
+\t@pgfplots@toka=\toks56
+\t@pgfplots@tokb=\toks57
+\t@pgfplots@tokc=\toks58
+\pgfplots@tmpa=\dimen335
+\c@pgfplots@coordindex=\count380
+\c@pgfplots@scanlineindex=\count381
+ (C:\Users\Uporabnik\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgfplotssysgeneric.code.tex)) (C:\Users\Uporabnik\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\pgfplotslibrary.code.tex) (C:\Users\Uporabnik\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/oldpgfcompatib\pgfplotsoldpgfsupp_loader.code.tex
+Package pgfplots: loading complementary utilities for your pgf version...
+\t@pgf@toka=\toks59
+\t@pgf@tokb=\toks60
+\t@pgf@tokc=\toks61
+(C:\Users\Uporabnik\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/oldpgfcompatib\pgfplotsoldpgfsupp_pgfutil-common-lists.tex)) (C:\Users\Uporabnik\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotsutil.code.tex (C:\Users\Uporabnik\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsliststructure.code.tex) (C:\Users\Uporabnik\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsliststructureext.code.tex) (C:\Users\Uporabnik\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsarray.code.tex
+\c@pgfplotsarray@tmp=\count382
+) (C:\Users\Uporabnik\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsmatrix.code.tex) (C:\Users\Uporabnik\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/numtable\pgfplotstableshared.code.tex
+\c@pgfplotstable@counta=\count383
+\t@pgfplotstable@a=\toks62
+) (C:\Users\Uporabnik\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsdeque.code.tex) (C:\Users\Uporabnik\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotsbinary.code.tex (C:\Users\Uporabnik\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotsbinary.data.code.tex)) (C:\Users\Uporabnik\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotsutil.verb.code.tex) (C:\Users\Uporabnik\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\pgflibrarypgfplots.surfshading.code.tex
+\c@pgfplotslibrarysurf@no=\count384
+ (C:\Users\Uporabnik\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgflibrarypgfplots.surfshading.pgfsys-pdftex.def))) (C:\Users\Uporabnik\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotscolormap.code.tex (C:\Users\Uporabnik\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotscolor.code.tex)) (C:\Users\Uporabnik\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsstackedplots.code.tex) (C:\Users\Uporabnik\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsplothandlers.code.tex (C:\Users\Uporabnik\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsmeshplothandler.code.tex (C:\Users\Uporabnik\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsmeshplotimage.code.tex))) (C:\Users\Uporabnik\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.scaling.code.tex) (C:\Users\Uporabnik\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotscoordprocessing.code.tex) (C:\Users\Uporabnik\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.errorbars.code.tex) (C:\Users\Uporabnik\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.markers.code.tex) (C:\Users\Uporabnik\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsticks.code.tex) (C:\Users\Uporabnik\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.paths.code.tex) (C:\Users\Uporabnik\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.code.tex (C:\Users\Uporabnik\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduledecorations.code.tex
+\pgfdecoratedcompleteddistance=\dimen336
+\pgfdecoratedremainingdistance=\dimen337
+\pgfdecoratedinputsegmentcompleteddistance=\dimen338
+\pgfdecoratedinputsegmentremainingdistance=\dimen339
+\pgf@decorate@distancetomove=\dimen340
+\pgf@decorate@repeatstate=\count385
+\pgfdecorationsegmentamplitude=\dimen341
+\pgfdecorationsegmentlength=\dimen342
+)
+\tikz@lib@dec@box=\box107
+) (C:\Users\Uporabnik\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.pathmorphing.code.tex (C:\Users\Uporabnik\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorations\pgflibrarydecorations.pathmorphing.code.tex)) (C:\Users\Uporabnik\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.pathreplacing.code.tex (C:\Users\Uporabnik\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorations\pgflibrarydecorations.pathreplacing.code.tex)) (C:\Users\Uporabnik\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\tikzlibrarypgfplots.contourlua.code.tex)
+\pgfplots@numplots=\count386
+\pgfplots@xmin@reg=\dimen343
+\pgfplots@xmax@reg=\dimen344
+\pgfplots@ymin@reg=\dimen345
+\pgfplots@ymax@reg=\dimen346
+\pgfplots@zmin@reg=\dimen347
+\pgfplots@zmax@reg=\dimen348
+) (C:\Users\Uporabnik\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryplotmarks.code.tex
+File: tikzlibraryplotmarks.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+ (C:\Users\Uporabnik\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryplotmarks.code.tex
+File: pgflibraryplotmarks.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+))) (C:\Users\Uporabnik\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\tikzlibrarypgfplots.external.code.tex (C:\Users\Uporabnik\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer/libraries\tikzlibraryexternal.code.tex (C:\Users\Uporabnik\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
+with kernel methods
+) (C:\Users\Uporabnik\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzexternalshared.code.tex))) (C:\Users\Uporabnik\AppData\Local\Programs\MiKTeX\tex/latex/beamertheme-metropolis\pgfplotsthemetol.sty
+Package: pgfplotsthemetol 2017/01/23 PGFplots colors based on Paul Tol's SRON technical note
 ) (C:\Users\Uporabnik\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count380
-) (prosojnice.aux
-Package babel Info: 'slovene' activates 'slovene' shorthands.
-(babel)             Reported on input line 9.
-)
+\l__color_backend_stack_int=\count387
+) (prosojnice.aux)
 \openout1 = `prosojnice.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -891,77 +937,77 @@ LaTeX Font Info:    ... okay on input line 21.
 
 (C:\Users\Uporabnik\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count381
-\scratchdimen=\dimen335
-\scratchbox=\box107
-\nofMPsegments=\count382
-\nofMParguments=\count383
-\everyMPshowfont=\toks56
-\MPscratchCnt=\count384
-\MPscratchDim=\dimen336
-\MPnumerator=\count385
-\makeMPintoPDFobject=\count386
-\everyMPtoPDFconversion=\toks57
+\scratchcounter=\count388
+\scratchdimen=\dimen349
+\scratchbox=\box108
+\nofMPsegments=\count389
+\nofMParguments=\count390
+\everyMPshowfont=\toks63
+\MPscratchCnt=\count391
+\MPscratchDim=\dimen350
+\MPnumerator=\count392
+\makeMPintoPDFobject=\count393
+\everyMPtoPDFconversion=\toks64
 ) (C:\Users\Uporabnik\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (C:\Users\Uporabnik\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 21.
+Package hyperref Info: Link coloring OFF on input line 23.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 21.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 23.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 21.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 23.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/cmr/m/n on input line 21.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 21.
+(Font)                  OT1/cmss/m/n --> T1/cmr/m/n on input line 23.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 23.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> T1/cmss/b/n on input line 21.
+(Font)                  OT1/cmr/bx/n --> T1/cmss/b/n on input line 23.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> T1/cmss/b/n on input line 21.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 21.
+(Font)                  OT1/cmr/bx/n --> T1/cmss/b/n on input line 23.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 23.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/cmss/m/n on input line 21.
+(Font)                  OT1/cmss/m/n --> T1/cmss/m/n on input line 23.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> T1/cmss/m/n on input line 21.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 21.
+(Font)                  OT1/cmss/bx/n --> T1/cmss/m/n on input line 23.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 23.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> T1/cmss/m/it on input line 21.
+(Font)                  OT1/cmr/m/it --> T1/cmss/m/it on input line 23.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> T1/cmss/m/it on input line 21.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 21.
+(Font)                  OT1/cmr/bx/it --> T1/cmss/m/it on input line 23.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 23.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 21.
+(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 23.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 21.
+(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 23.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  T1/cmss/m/n --> T1/cmss/b/n on input line 21.
+(Font)                  T1/cmss/m/n --> T1/cmss/b/n on input line 23.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T1/cmss/m/it --> T1/cmss/b/it on input line 21.
+(Font)                  T1/cmss/m/it --> T1/cmss/b/it on input line 23.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/b/n --> T1/cmr/b/n on input line 21.
+(Font)                  OT1/cmss/b/n --> T1/cmr/b/n on input line 23.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T1/cmss/b/n --> T1/cmss/b/n on input line 21.
+(Font)                  T1/cmss/b/n --> T1/cmss/b/n on input line 23.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T1/cmss/m/n --> T1/cmss/b/n on input line 21.
+(Font)                  T1/cmss/m/n --> T1/cmss/b/n on input line 23.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T1/cmss/m/it --> T1/cmss/b/it on input line 21.
+(Font)                  T1/cmss/m/it --> T1/cmss/b/it on input line 23.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/cmtt/m/n --> T1/cmtt/b/n on input line 21.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 21.
+(Font)                  T1/cmtt/m/n --> T1/cmtt/b/n on input line 23.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 23.
 LaTeX Font Info:    Encoding `T1' has changed to `OT1' for symbol font
-(Font)              `pureletters' in the math version `normal' on input line 21.
+(Font)              `pureletters' in the math version `normal' on input line 23.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
-(Font)                  T1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 21.
+(Font)                  T1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 23.
 LaTeX Font Info:    Encoding `T1' has changed to `OT1' for symbol font
-(Font)              `pureletters' in the math version `bold' on input line 21.
+(Font)              `pureletters' in the math version `bold' on input line 23.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 21.
+(Font)                  T1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 23.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on input line 21.
+(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on input line 23.
  (C:\Users\Uporabnik\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-basic-dictionary-English.dict
 Dictionary: translator-basic-dictionary, Language: English 
 ) (C:\Users\Uporabnik\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-bibliography-dictionary-English.dict
@@ -974,11 +1020,17 @@ Dictionary: translator-months-dictionary, Language: English
 Dictionary: translator-numbers-dictionary, Language: English 
 ) (C:\Users\Uporabnik\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
-) (prosojnice.nav)
-LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 28.
+)
+Package babel Info: 'slovene' activates 'slovene' shorthands.
+(babel)             Reported on input line 23.
 
-Overfull \vbox (44.54378pt too high) detected at line 28
+Package pgfplots notification 'compat/show suggested version=true': you might benefit from \pgfplotsset{compat=1.18} (current compat level: 1.9).
+
+(prosojnice.nav)
+LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <14.4> not available
+(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 30.
+
+Overfull \vbox (44.54378pt too high) detected at line 30
  []
 
 
@@ -986,22 +1038,24 @@ Overfull \vbox (44.54378pt too high) detected at line 28
 [1
 
 {C:/Users/Uporabnik/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-\c@definicija=\count387
-\c@izrek=\count388
- (prosojnice.toc)
+\c@definicija=\count394
+\c@izrek=\count395
+
+No file prosojnice.toc.
+
 
 [2
 
 ]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 62.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 64.
  (C:\Users\Uporabnik\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 62.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 64.
  (C:\Users\Uporabnik\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 62.
+LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 64.
  (C:\Users\Uporabnik\AppData\Local\Programs\MiKTeX\tex/latex/sansmathaccent\ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/mathkerncmss.
 )
@@ -1112,13 +1166,220 @@ File: Udsrom.fd 1995/08/01 v0.1 Double stroke roman font definitions
 
 [25
 
-]
+] (prosojnice/4-stolpci-slike.tex
+
+LaTeX Warning: File `fig-1.png' not found on input line 27.
+
+
+prosojnice/4-stolpci-slike.tex:27: Package pdftex.def Error: File `fig-1.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (3.98428pt too wide) in paragraph at lines 27--27
+ [][] 
+ []
+
+
 
 [26
 
 ]
 
+LaTeX Warning: File `fig-2.png' not found on input line 27.
+
+
+prosojnice/4-stolpci-slike.tex:27: Package pdftex.def Error: File `fig-2.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (3.98428pt too wide) in paragraph at lines 27--27
+ [] 
+ []
+
+
+
 [27
+
+]
+
+LaTeX Warning: File `fig-3.png' not found on input line 27.
+
+
+prosojnice/4-stolpci-slike.tex:27: Package pdftex.def Error: File `fig-3.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (3.98428pt too wide) in paragraph at lines 27--27
+ [] 
+ []
+
+
+
+[28
+
+]
+
+LaTeX Warning: File `fig-4.png' not found on input line 27.
+
+
+prosojnice/4-stolpci-slike.tex:27: Package pdftex.def Error: File `fig-4.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (3.98428pt too wide) in paragraph at lines 27--27
+ [] 
+ []
+
+
+
+[29
+
+]
+
+LaTeX Warning: File `fig-5.png' not found on input line 27.
+
+
+prosojnice/4-stolpci-slike.tex:27: Package pdftex.def Error: File `fig-5.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (3.98428pt too wide) in paragraph at lines 27--27
+ [] 
+ []
+
+
+
+[30
+
+]
+
+LaTeX Warning: File `fig-6.png' not found on input line 27.
+
+
+prosojnice/4-stolpci-slike.tex:27: Package pdftex.def Error: File `fig-6.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (3.98428pt too wide) in paragraph at lines 27--27
+ [] 
+ []
+
+
+
+[31
+
+]
+
+LaTeX Warning: File `fig-7.png' not found on input line 27.
+
+
+prosojnice/4-stolpci-slike.tex:27: Package pdftex.def Error: File `fig-7.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (3.98428pt too wide) in paragraph at lines 27--27
+ [] 
+ []
+
+
+
+[32
+
+]
+
+[33
+
+]
+
+[34
+
+]
+
+[35
+
+]
+
+[36
+
+]
+
+[37
+
+]
+
+[38
+
+]
+
+[39
+
+]
+
+[40
+
+])
+
+[41
+
+]
+
+[42
 
 ]
 \tf@nav=\write5
@@ -1137,17 +1398,17 @@ L3 programming layer <2025-10-09>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 28558 strings out of 468080
- 576624 string characters out of 5423836
- 949086 words of memory out of 5000000
- 56564 multiletter control sequences out of 15000+600000
- 650757 words of font info for 101 fonts, out of 8000000 for 9000
+ 39360 strings out of 468080
+ 941952 string characters out of 5423836
+ 1428819 words of memory out of 5000000
+ 67181 multiletter control sequences out of 15000+600000
+ 652810 words of font info for 109 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,13n,137p,1945b,753s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\Uporabnik\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcss1000.pk> <C:\Users\Uporabnik\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss1000.pk> <C:\Users\Uporabnik\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1200.pk> <C:\Users\Uporabnik\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss0600.pk> <C:\Users\Uporabnik\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcss1095.pk> <C:\Users\Uporabnik\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsi1095.pk> <C:\Users\Uporabnik\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1095.pk> <C:\Users\Uporabnik\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1095.pk> <C:\Users\Uporabnik\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss1095.pk> <C:\Users\Uporabnik\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1200.pk> <C:\Users\Uporabnik\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss0800.pk> <C:\Users\Uporabnik\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss1200.pk> <C:\Users\Uporabnik\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsi1200.pk> <C:\Users\Uporabnik\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1440.pk> <C:\Users\Uporabnik\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1440.pk><C:/Users/Uporabnik/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Uporabnik/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Uporabnik/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Uporabnik/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/Uporabnik/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/Uporabnik/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi10.pfb><C:/Users/Uporabnik/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi8.pfb><C:/Users/Uporabnik/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Uporabnik/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Uporabnik/AppData/Local/Programs/MiKTeX/fonts/type1/public/doublestroke/dsrom10.pfb>
-Output written on prosojnice.pdf (27 pages, 226135 bytes).
+ 128i,18n,137p,1986b,2213s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\Uporabnik\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcss1000.pk> <C:\Users\Uporabnik\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss1000.pk> <C:\Users\Uporabnik\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1200.pk> <C:\Users\Uporabnik\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss0600.pk> <C:\Users\Uporabnik\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcss1095.pk> <C:\Users\Uporabnik\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsi1095.pk> <C:\Users\Uporabnik\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1095.pk> <C:\Users\Uporabnik\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1095.pk> <C:\Users\Uporabnik\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss1095.pk> <C:\Users\Uporabnik\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1200.pk> <C:\Users\Uporabnik\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss0800.pk> <C:\Users\Uporabnik\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss1200.pk> <C:\Users\Uporabnik\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsi1200.pk> <C:\Users\Uporabnik\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1440.pk> <C:\Users\Uporabnik\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1440.pk><C:/Users/Uporabnik/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Uporabnik/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Uporabnik/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Uporabnik/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/Uporabnik/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/Uporabnik/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi10.pfb><C:/Users/Uporabnik/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi12.pfb><C:/Users/Uporabnik/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi8.pfb><C:/Users/Uporabnik/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Uporabnik/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/Uporabnik/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Uporabnik/AppData/Local/Programs/MiKTeX/fonts/type1/public/doublestroke/dsrom10.pfb>
+Output written on prosojnice.pdf (42 pages, 280037 bytes).
 PDF statistics:
- 573 PDF objects out of 1000 (max. 8388607)
- 61 named destinations out of 1000 (max. 500000)
+ 672 PDF objects out of 1000 (max. 8388607)
+ 91 named destinations out of 1000 (max. 500000)
  91 words of extra memory for PDF output out of 10000 (max. 10000000)
 
